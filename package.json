@@ -1,0 +1,19 @@
+{
+  "name": "twitter_analysis",
+  "version": "1.0.0",
+  "description": "tweepy used to mine twitter and find inferences",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavralhan/twitter_analysis.git"
+  },
+  "author": "abhinavralhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinavralhan/twitter_analysis/issues"
+  },
+  "homepage": "https://github.com/abhinavralhan/twitter_analysis#readme"
+}
